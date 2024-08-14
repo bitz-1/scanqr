@@ -2,7 +2,7 @@
 ```markdown
 # QR Scanner Application
 
-This is a QR Scanner application built using Expo and React Native. The app allows users to scan QR codes and display the scanned data. The application is designed for Android and can be easily extended to other platforms supported by Expo.
+This is a QR Scanner application built using Expo and React Native. The app allows users to scan QR codes and display the scanned data. <br/> The application is designed for Android and can be easily extended to other platforms supported by Expo.
 
 ## Features
 
