@@ -1,5 +1,3 @@
-Certainly! Here's the updated `README.md` with the APK validity note:
-
 ```markdown
 ### QR Scanner Application
 
