@@ -1,6 +1,6 @@
+Certainly! Here's the updated `README.md` with the APK validity note:
 
 ```markdown
-
 ### QR Scanner Application
 
 **Description:** This is a QR Scanner application built using Expo and React Native.
@@ -24,7 +24,7 @@
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <https://github.com/bitz-1/scanqr.git>
+   git clone https://github.com/bitz-1/scanqr.git
    ```
 
 2. Navigate to the project directory:
@@ -57,6 +57,8 @@ You can download the APK for this application from the following link:
 
 [Download QR Scanner APK](https://expo.dev/artifacts/eas/m36B5vzgRi6KimEGNJNmiq.apk)
 
+*Note: The APK will be valid for 29 days from the date of this push.*
+
 ## Contact
 
 For any inquiries or issues, please reach out to me at:
@@ -64,3 +66,5 @@ For any inquiries or issues, please reach out to me at:
 **Apurv Nandgaonkar**  
 Email: [apurv.mod007@gmail.com](mailto:apurv.mod007@gmail.com)
 ```
+
+Feel free to adjust any details as needed!
