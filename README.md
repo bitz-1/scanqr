@@ -15,7 +15,7 @@ This is a QR Scanner application built using Expo and React Native. The app allo
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/bitz-1/scanqr.git>
    ```
 
 2. Navigate to the project directory:
