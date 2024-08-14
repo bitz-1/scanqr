@@ -1,50 +1,57 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+```markdown
+# QR Scanner Application
 
-## Get started
+This is a QR Scanner application built using Expo and React Native. The app allows users to scan QR codes and display the scanned data. The application is designed for Android and can be easily extended to other platforms supported by Expo.
 
-1. Install dependencies
+## Features
+
+- Scan QR codes using your device's camera.
+- Display scanned QR code data.
+- Simple and user-friendly interface.
+
+## Installation
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone <repository-url>
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd qr-scanner-app
+   ```
+
+3. Install the required dependencies:
 
    ```bash
    npm install
    ```
 
-2. Start the app
+4. Start the development server:
 
    ```bash
-    npx expo start
+   npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+## Usage
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+1. Open the application on your device or an emulator.
+2. The camera will automatically start, allowing you to scan QR codes.
+3. Upon scanning a QR code, the data will be displayed on the screen.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Download the APK
 
-## Get a fresh project
+You can download the APK for this application from the following link:
 
-When you're ready, run:
+[Download QR Scanner APK](https://expo.dev/artifacts/eas/m36B5vzgRi6KimEGNJNmiq.apk)
 
-```bash
-npm run reset-project
+## Contact
+
+For any inquiries or issues, please reach out to me at:
+
+**Apurv Nandgaonkar**  
+Email: [apurv.mod007@gmail.com](mailto:apurv.mod007@gmail.com)
 ```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
